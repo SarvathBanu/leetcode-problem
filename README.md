@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SarvathBanu/leetcode-problem/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SarvathBanu/leetcode-problem/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/SarvathBanu/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SarvathBanu/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SarvathBanu/leetcode-problem/tree/master/0070-climbing-stairs) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/SarvathBanu/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
