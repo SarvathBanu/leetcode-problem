@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/SarvathBanu/leetcode-problem/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/SarvathBanu/leetcode-problem/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/SarvathBanu/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0088-merge-sorted-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SarvathBanu/leetcode-problem/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
