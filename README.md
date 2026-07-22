@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SarvathBanu/leetcode-problem/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/SarvathBanu/leetcode-problem/tree/master/0066-plus-one) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0052-n-queens-ii) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/SarvathBanu/leetcode-problem/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
