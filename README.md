@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SarvathBanu/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SarvathBanu/leetcode-problem/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SarvathBanu/leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0097-interleaving-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/SarvathBanu/leetcode-problem/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0119-pascals-triangle-ii) |
 ## Greedy
 |  |
 | ------- |
