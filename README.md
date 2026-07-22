@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
