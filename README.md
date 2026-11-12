@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/SarvathBanu/leetcode-problem/tree/master/0125-valid-palindrome) |
+| [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Sorting
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SarvathBanu/leetcode-problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SarvathBanu/leetcode-problem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SarvathBanu/leetcode-problem/tree/master/0070-climbing-stairs) |
+| [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Binary Search
 |  |
 | ------- |
@@ -154,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Number Theory
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
