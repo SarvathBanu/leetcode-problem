@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SarvathBanu/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0232-implement-queue-using-stacks](https://github.com/SarvathBanu/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
 | ------- |
@@ -168,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SarvathBanu/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/SarvathBanu/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
