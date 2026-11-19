@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SarvathBanu/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SarvathBanu/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/SarvathBanu/leetcode-problem/tree/master/0141-linked-list-cycle) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SarvathBanu/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/SarvathBanu/leetcode-problem/tree/master/0125-valid-palindrome) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SarvathBanu/leetcode-problem/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SarvathBanu/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
