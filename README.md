@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/SarvathBanu/leetcode-problem/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SarvathBanu/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SarvathBanu/leetcode-problem/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SarvathBanu/leetcode-problem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/SarvathBanu/leetcode-problem/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SarvathBanu/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Binary Search
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SarvathBanu/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/SarvathBanu/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/SarvathBanu/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
