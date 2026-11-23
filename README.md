@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SarvathBanu/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SarvathBanu/leetcode-problem/tree/master/0389-find-the-difference) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SarvathBanu/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/SarvathBanu/leetcode-problem/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Sorting
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SarvathBanu/leetcode-problem/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
