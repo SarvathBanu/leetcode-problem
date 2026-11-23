@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [1260-shift-2d-grid](https://github.com/SarvathBanu/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/SarvathBanu/leetcode-problem/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SarvathBanu/leetcode-problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1122-relative-sort-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SarvathBanu/leetcode-problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SarvathBanu/leetcode-problem/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1122-relative-sort-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SarvathBanu/leetcode-problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Backtracking
 |  |
 | ------- |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SarvathBanu/leetcode-problem/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarvathBanu/leetcode-problem/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SarvathBanu/leetcode-problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Memoization
 |  |
 | ------- |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarvathBanu/leetcode-problem/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/SarvathBanu/leetcode-problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/SarvathBanu/leetcode-problem/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
