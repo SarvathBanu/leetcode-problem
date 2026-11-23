@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/SarvathBanu/leetcode-problem/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/SarvathBanu/leetcode-problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/SarvathBanu/leetcode-problem/tree/master/1051-height-checker) |
 | [1480-running-sum-of-1d-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarvathBanu/leetcode-problem/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0905-sort-array-by-parity](https://github.com/SarvathBanu/leetcode-problem/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/SarvathBanu/leetcode-problem/tree/master/1051-height-checker) |
 ## Backtracking
 |  |
 | ------- |
@@ -305,4 +307,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/SarvathBanu/leetcode-problem/tree/master/0739-daily-temperatures) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SarvathBanu/leetcode-problem/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/SarvathBanu/leetcode-problem/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
