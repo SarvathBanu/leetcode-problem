@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/1137-n-th-tribonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SarvathBanu/leetcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Binary Search
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/SarvathBanu/leetcode-problem/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/SarvathBanu/leetcode-problem/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/SarvathBanu/leetcode-problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
