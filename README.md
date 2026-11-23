@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/SarvathBanu/leetcode-problem/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/SarvathBanu/leetcode-problem/tree/master/0326-power-of-three) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Binary Search
 |  |
@@ -248,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/SarvathBanu/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SarvathBanu/leetcode-problem/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SarvathBanu/leetcode-problem/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
