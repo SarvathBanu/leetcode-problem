@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SarvathBanu/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/SarvathBanu/leetcode-problem/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/SarvathBanu/leetcode-problem/tree/master/0200-number-of-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SarvathBanu/leetcode-problem/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/SarvathBanu/leetcode-problem/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0097-interleaving-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/SarvathBanu/leetcode-problem/tree/master/0125-valid-palindrome) |
+| [0179-largest-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0179-largest-number) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Sorting
 |  |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SarvathBanu/leetcode-problem/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0179-largest-number) |
 ## Backtracking
 |  |
 | ------- |
