@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/SarvathBanu/leetcode-problem/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/SarvathBanu/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Sorting
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/SarvathBanu/leetcode-problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SarvathBanu/leetcode-problem/tree/master/0342-power-of-four) |
 | [0384-shuffle-an-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0384-shuffle-an-array) |
+| [0412-fizz-buzz](https://github.com/SarvathBanu/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Binary Search
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SarvathBanu/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
