@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/SarvathBanu/leetcode-problem/tree/master/1672-richest-customer-wealth) |
 | [1726-tuple-with-same-product](https://github.com/SarvathBanu/leetcode-problem/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/SarvathBanu/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SarvathBanu/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/SarvathBanu/leetcode-problem/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/SarvathBanu/leetcode-problem/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1929-concatenation-of-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
