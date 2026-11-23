@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/SarvathBanu/leetcode-problem/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/SarvathBanu/leetcode-problem/tree/master/1672-richest-customer-wealth) |
 | [1726-tuple-with-same-product](https://github.com/SarvathBanu/leetcode-problem/tree/master/1726-tuple-with-same-product) |
+| [1748-sum-of-unique-elements](https://github.com/SarvathBanu/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1122-relative-sort-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/SarvathBanu/leetcode-problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1726-tuple-with-same-product](https://github.com/SarvathBanu/leetcode-problem/tree/master/1726-tuple-with-same-product) |
+| [1748-sum-of-unique-elements](https://github.com/SarvathBanu/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/SarvathBanu/leetcode-problem/tree/master/0169-majority-element) |
 | [1726-tuple-with-same-product](https://github.com/SarvathBanu/leetcode-problem/tree/master/1726-tuple-with-same-product) |
+| [1748-sum-of-unique-elements](https://github.com/SarvathBanu/leetcode-problem/tree/master/1748-sum-of-unique-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
