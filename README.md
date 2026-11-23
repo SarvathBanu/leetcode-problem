@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SarvathBanu/leetcode-problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/SarvathBanu/leetcode-problem/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/SarvathBanu/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SarvathBanu/leetcode-problem/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SarvathBanu/leetcode-problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/SarvathBanu/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SarvathBanu/leetcode-problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0179-largest-number) |
+| [0217-contains-duplicate](https://github.com/SarvathBanu/leetcode-problem/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
