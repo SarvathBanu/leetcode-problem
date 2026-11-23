@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0739-daily-temperatures](https://github.com/SarvathBanu/leetcode-problem/tree/master/0739-daily-temperatures) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarvathBanu/leetcode-problem/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0867-transpose-matrix](https://github.com/SarvathBanu/leetcode-problem/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/SarvathBanu/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/SarvathBanu/leetcode-problem/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/SarvathBanu/leetcode-problem/tree/master/0867-transpose-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SarvathBanu/leetcode-problem/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/SarvathBanu/leetcode-problem/tree/master/0867-transpose-matrix) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
