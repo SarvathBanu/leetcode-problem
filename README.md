@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/SarvathBanu/leetcode-problem/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0394-decode-string) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Sorting
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/SarvathBanu/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/SarvathBanu/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SarvathBanu/leetcode-problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SarvathBanu/leetcode-problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SarvathBanu/leetcode-problem/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0394-decode-string) |
 ## Randomized
 |  |
 | ------- |
