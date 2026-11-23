@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/SarvathBanu/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/SarvathBanu/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SarvathBanu/leetcode-problem/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SarvathBanu/leetcode-problem/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/SarvathBanu/leetcode-problem/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
 |  |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SarvathBanu/leetcode-problem/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/SarvathBanu/leetcode-problem/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -88,11 +91,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/SarvathBanu/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/SarvathBanu/leetcode-problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SarvathBanu/leetcode-problem/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -166,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/SarvathBanu/leetcode-problem/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/SarvathBanu/leetcode-problem/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
