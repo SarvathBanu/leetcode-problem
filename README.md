@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/SarvathBanu/leetcode-problem/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1122-relative-sort-array) |
+| [1260-shift-2d-grid](https://github.com/SarvathBanu/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [1480-running-sum-of-1d-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/SarvathBanu/leetcode-problem/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/SarvathBanu/leetcode-problem/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/SarvathBanu/leetcode-problem/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/SarvathBanu/leetcode-problem/tree/master/1260-shift-2d-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/SarvathBanu/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/SarvathBanu/leetcode-problem/tree/master/0867-transpose-matrix) |
+| [1260-shift-2d-grid](https://github.com/SarvathBanu/leetcode-problem/tree/master/1260-shift-2d-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
