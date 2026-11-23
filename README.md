@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/SarvathBanu/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/SarvathBanu/leetcode-problem/tree/master/0224-basic-calculator) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Sorting
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SarvathBanu/leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SarvathBanu/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/SarvathBanu/leetcode-problem/tree/master/0224-basic-calculator) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Binary Search
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SarvathBanu/leetcode-problem/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SarvathBanu/leetcode-problem/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/SarvathBanu/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/SarvathBanu/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 ## Tree
 |  |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0202-happy-number) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/SarvathBanu/leetcode-problem/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
