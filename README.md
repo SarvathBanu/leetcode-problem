@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/SarvathBanu/leetcode-problem/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/SarvathBanu/leetcode-problem/tree/master/0231-power-of-two) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Binary Search
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/SarvathBanu/leetcode-problem/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/SarvathBanu/leetcode-problem/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -237,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/SarvathBanu/leetcode-problem/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/SarvathBanu/leetcode-problem/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
