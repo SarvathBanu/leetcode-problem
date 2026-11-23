@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/SarvathBanu/leetcode-problem/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SarvathBanu/leetcode-problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/SarvathBanu/leetcode-problem/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/1137-n-th-tribonacci-number) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Binary Search
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SarvathBanu/leetcode-problem/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/1137-n-th-tribonacci-number) |
 ## Matrix
 |  |
 | ------- |
