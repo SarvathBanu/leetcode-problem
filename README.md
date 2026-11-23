@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/SarvathBanu/leetcode-problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SarvathBanu/leetcode-problem/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
+| [0384-shuffle-an-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0384-shuffle-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SarvathBanu/leetcode-problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SarvathBanu/leetcode-problem/tree/master/0342-power-of-four) |
+| [0384-shuffle-an-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0384-shuffle-an-array) |
 | [1447-simplified-fractions](https://github.com/SarvathBanu/leetcode-problem/tree/master/1447-simplified-fractions) |
 ## Binary Search
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SarvathBanu/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
+| [0384-shuffle-an-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0384-shuffle-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -255,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SarvathBanu/leetcode-problem/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SarvathBanu/leetcode-problem/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SarvathBanu/leetcode-problem/tree/master/0342-power-of-four) |
+## Randomized
+|  |
+| ------- |
+| [0384-shuffle-an-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0384-shuffle-an-array) |
 <!---LeetCode Topics End-->
