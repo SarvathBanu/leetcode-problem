@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SarvathBanu/leetcode-problem/tree/master/0268-missing-number) |
 | [0384-shuffle-an-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0384-shuffle-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0739-daily-temperatures](https://github.com/SarvathBanu/leetcode-problem/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Dynamic Programming
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/SarvathBanu/leetcode-problem/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/SarvathBanu/leetcode-problem/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/SarvathBanu/leetcode-problem/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -285,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0384-shuffle-an-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/SarvathBanu/leetcode-problem/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
