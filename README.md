@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/SarvathBanu/leetcode-problem/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1470-shuffle-the-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/1480-running-sum-of-1d-array) |
+| [1514-path-with-maximum-probability](https://github.com/SarvathBanu/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 | [1572-matrix-diagonal-sum](https://github.com/SarvathBanu/leetcode-problem/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/SarvathBanu/leetcode-problem/tree/master/1672-richest-customer-wealth) |
 | [1726-tuple-with-same-product](https://github.com/SarvathBanu/leetcode-problem/tree/master/1726-tuple-with-same-product) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarvathBanu/leetcode-problem/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1514-path-with-maximum-probability](https://github.com/SarvathBanu/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -360,14 +362,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SarvathBanu/leetcode-problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/SarvathBanu/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SarvathBanu/leetcode-problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/SarvathBanu/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SarvathBanu/leetcode-problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1514-path-with-maximum-probability](https://github.com/SarvathBanu/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
