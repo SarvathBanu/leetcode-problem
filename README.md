@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SarvathBanu/leetcode-problem/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SarvathBanu/leetcode-problem/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/SarvathBanu/leetcode-problem/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SarvathBanu/leetcode-problem/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SarvathBanu/leetcode-problem/tree/master/0200-number-of-islands) |
+| [0743-network-delay-time](https://github.com/SarvathBanu/leetcode-problem/tree/master/0743-network-delay-time) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SarvathBanu/leetcode-problem/tree/master/0743-network-delay-time) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/SarvathBanu/leetcode-problem/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1514-path-with-maximum-probability](https://github.com/SarvathBanu/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/SarvathBanu/leetcode-problem/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -361,16 +364,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SarvathBanu/leetcode-problem/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SarvathBanu/leetcode-problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/SarvathBanu/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SarvathBanu/leetcode-problem/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SarvathBanu/leetcode-problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/SarvathBanu/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/SarvathBanu/leetcode-problem/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/SarvathBanu/leetcode-problem/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/SarvathBanu/leetcode-problem/tree/master/1514-path-with-maximum-probability) |
 ## Bellman–Ford Algorithm
