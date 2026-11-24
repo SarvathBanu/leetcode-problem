@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SarvathBanu/leetcode-problem/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/SarvathBanu/leetcode-problem/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/SarvathBanu/leetcode-problem/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SarvathBanu/leetcode-problem/tree/master/0055-jump-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/SarvathBanu/leetcode-problem/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SarvathBanu/leetcode-problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SarvathBanu/leetcode-problem/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SarvathBanu/leetcode-problem/tree/master/0141-linked-list-cycle) |
