@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/SarvathBanu/leetcode-problem/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SarvathBanu/leetcode-problem/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SarvathBanu/leetcode-problem/tree/master/0200-number-of-islands) |
+| [0543-diameter-of-binary-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 | [0743-network-delay-time](https://github.com/SarvathBanu/leetcode-problem/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/SarvathBanu/leetcode-problem/tree/master/0112-path-sum) |
+| [0543-diameter-of-binary-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -399,4 +402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SarvathBanu/leetcode-problem/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/SarvathBanu/leetcode-problem/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
